@@ -202,7 +202,7 @@ assistance largely thwarted attempts to shutdown electrical substations in Ukrai
 believe the attack came from the same group with ties to the Russian GRU that targeted
 Ukraine’s power grid in 2016, using an updated form of the same malware.
  
-April 2022: Hackers targeted Ukraine’s National Post Office with a DDoS attack, days after
+April 2022. Hackers targeted Ukraine’s National Post Office with a DDoS attack, days after
 releasing a new stamp honoring a Ukrainian border guard. Th attack affected the agency’s ability
 to run their online store.
  
@@ -2414,15 +2414,15 @@ July 2016. A series of DDOS attacks disrupted 68 Philippine government websites 
 day the United Nations International Arbitration court released its decision ruling in favor of the
 Philippines on the West Philippine Sea territorial dispute.
  
-July 2016: A new strain of cyberespionage malware with a dropper designed to target specific
+July 2016. A new strain of cyberespionage malware with a dropper designed to target specific
 European energy companies has been discovered. Researchers say the malware appears to be the
 work of a nation-state, may have originated in Eastern Europe, and its role seems to be battlespace
 preparation.
  
-July 2016: A Chinese cyber espionage group targeted defense industries in Russia, Belarus, and
+July 2016. A Chinese cyber espionage group targeted defense industries in Russia, Belarus, and
 Mongolia with APTs using phishing campaigns to exfiltrate data.
  
-May 2016: Suspected Russian hackers attempted to penetrate the Turkish Prime Minister’s office
+May 2016. Suspected Russian hackers attempted to penetrate the Turkish Prime Minister’s office
 and the German Christian Democratic Union party. The attacks targeted personal email accounts
 and attempted to obtain login credentials.
  
