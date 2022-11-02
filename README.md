@@ -42,4 +42,3 @@ You can also filter the results further by providing query strings. Supported qu
 2. month
 3. country
 
-
