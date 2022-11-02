@@ -2,32 +2,13 @@ const { Schema, model } = require("mongoose");
 
 const incidentsSchema = new Schema({
     country: {
-        name: {
-            type: String,
-            required: true
-        },
-        long: {
-            type: Number,
-            required: true
-        },
-        lat:{
-            type: Number,
-            required: true
-        },
-        required: true
+        name: String,
+        long: Number,
+        lat: Number
     },
-    year: {
-        type: Number,
-        required: true,
-    },
-    month: {
-        type: String,
-        required: true
-    },
-    description: {
-        type: String,
-        required: true
-    }
+    year: Number,
+    month: String,
+    description: String
 });
 
 module.exports = model("Incident", incidentsSchema);
