@@ -15,7 +15,7 @@ def parser(incident):
         desc = event.strip()
     incident_dict = {
         "month": month,
-        "year": year,
+        "year": int(year),
         "description": desc,
         "country": country
     }
